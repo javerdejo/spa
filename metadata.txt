@@ -6,7 +6,7 @@
 name=spa
 qgisMinimumVersion=3.0
 description=Spatial Data Analysis
-version=0.1
+version=0.1.1
 author=Javier Arellano-Verdejo
 email=javier_arellano_verdejo@hotmail.com
 

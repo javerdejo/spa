@@ -3,7 +3,7 @@
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
-name=spa
+name=SPA
 qgisMinimumVersion=3.0
 description=Spatial Data Analysis
 version=0.1.1
@@ -23,7 +23,7 @@ hasProcessingProvider=no
 # changelog=
 
 # Tags are comma separated with spaces allowed
-tags=python
+tags=spatial analysis
 
 homepage=http://homepage
 category=Plugins

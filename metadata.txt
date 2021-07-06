@@ -13,7 +13,7 @@ email=javier_arellano_verdejo@hotmail.com
 about=Spatial data analisys algorithms
 
 tracker=http://bugs
-repository=http://repo
+repository=https://github.com/javerdejo/spa
 # End of mandatory metadata
 
 # Recommended items:
